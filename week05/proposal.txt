@@ -1,0 +1,34 @@
+ Student Chosen Program Proposal
+
+1. What is the title of My program?
+
+   Password Manager
+
+2. What real-world problem will My program address or help to solve?
+
+   This program helps people manage and keep track of passwords for different accounts. It’s hard to remember many passwords, especially strong ones, so this program makes it easier to save, create, and look them up safely.
+
+3. What will I learn from developing this program?
+
+   I’ll learn more about building GUIs in Python, using JSON to store data, and handling files. I’ll also learn how to make a password generator, check user input, and show messages.
+
+4. What Python modules will My program use?
+
+   - `tkinter` to make the GUI with buttons and input fields.
+   - `datetime` to add the date and time to each saved password.
+   - `pyperclip` to copy passwords to the clipboard.
+   - `json` to save and load passwords.
+   - `random` to create a random password.
+
+5. List the names of functions I will need.
+
+   - `main()`: The main function that runs the program.
+   - `password_gen()`: Creates a random password and copies it.
+   - `save_data()`: Checks the inputs and saves data to a file.
+   - `search_file(name)`: Looks up a password by website name and shows it.
+
+6. List the names of the test functions I will write.
+
+   - `test_password_gen()`: Checks that the password is strong.
+   - `test_save_data()`: Tests saving data and the file format.
+   - `test_search_file()`: Tests searching for entries that exist and don’t exist.
