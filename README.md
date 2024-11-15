@@ -1,11 +1,11 @@
 # Overview
 
 
-CSE 111 students become more organized, efficient, 
+CSE 111, I become more organized, efficient, 
 and powerful computer programmers by learning to research 
 and call functions written by others; to write, call, debug, 
-and test their own functions; and to handle errors within functions. 
-CSE 111 students write programs with functions to solve problems in many disciplines, 
+and test my own functions; and to handle errors within functions. 
+CSE 111 I write programs with functions to solve problems in many disciplines, 
 including business, physical science, human performance, and humanities.
 
 
